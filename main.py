@@ -22,6 +22,7 @@ def get_db_connection():
         password=os.getenv("PG_PASSWORD"),
         host=os.getenv("PG_HOST"),
         port=os.getenv("PG_PORT")
+        sslmode="require"
     )
 
 # Инициализация базы
