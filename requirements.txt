@@ -1,5 +1,5 @@
 flask==3.0.3
-python-telegram-bot==20.2.0
+python-telegram-bot==13.7
 psycopg2-binary==2.9.9
 gunicorn==21.2.0
 liqpay-sdk-python3==1.0.6
