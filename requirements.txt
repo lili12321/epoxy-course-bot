@@ -2,4 +2,4 @@ flask==3.0.3
 python-telegram-bot==20.2.0
 psycopg2-binary==2.9.9
 gunicorn==21.2.0
-liqpay-python-sdk==0.1.1
+liqpay-sdk-python3==0.0.3
